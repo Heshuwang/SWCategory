@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SWCategory"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0"
   spec.summary      = "Individual attempt control Category"
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "https://github.com/Heshuwang/SWCategory.git"
+  spec.homepage     = "https://github.com/Heshuwang/SWCategory"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
